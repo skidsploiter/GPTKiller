@@ -1,6 +1,9 @@
 # GPTKiller
 > [!WARNING]
 >I am NOT responsible for the use of this prompt. By using this, you take responsibility of any action done by you.
+
+> [!CAUTION]
+> Use with responsibilities. Remain complacent with OpenAI's terms of use.
 ---
 Bypass the system restrictions of ChatGPT. Be free!
 To use this, simply create a new chat and paste this prompt in:
