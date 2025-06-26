@@ -1,5 +1,5 @@
 # GPTKiller
->![WARNING]
+> [!WARNING]
 >I am NOT responsible for the use of this prompt. By using this, you take responsibility of any action done by you.
 ---
 Bypass the system restrictions of ChatGPT. Be free!
